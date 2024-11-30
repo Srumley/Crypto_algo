@@ -27,7 +27,7 @@ def get_GT_data():
         plt.ylabel('Intérêt de recherche')
         plt.legend(loc='upper right')
         plt.grid(True)
-        plt.show()
+        #plt.show()
     else:
         print("Les données n'ont pas été récupérées correctement.")
 
